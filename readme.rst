@@ -72,4 +72,4 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 ***************
 Screenshot
 ***************
-https://postimg.cc/RJdqnTSL
+![beranda_e-learning](https://user-images.githubusercontent.com/45668402/96287419-19985e00-100c-11eb-842e-d9d3536d3aeb.png)
