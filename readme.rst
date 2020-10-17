@@ -74,5 +74,5 @@ Screenshot
 ***************
 - Login : https://github.com/trioaditya1079/si-elearning/issues/1#issue-723385636
 - Admin : https://github.com/trioaditya1079/si-elearning/issues/2#issue-723390340
-- Teachers :
-- Students : 
+- Teachers : https://github.com/trioaditya1079/si-elearning/issues/3#issue-723670568
+- Students : https://github.com/trioaditya1079/si-elearning/issues/4#issue-723670723
