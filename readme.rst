@@ -72,6 +72,7 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 ***************
 Screenshot
 ***************
-<img src=”e-learning/login_e-learning.png”>
--  https://github.com/trioaditya1079/si-elearning/issues/1#issue-723385636
--  https://github.com/trioaditya1079/si-elearning/issues/2#issue-723390340
+- Login : https://github.com/trioaditya1079/si-elearning/issues/1#issue-723385636
+- Admin : https://github.com/trioaditya1079/si-elearning/issues/2#issue-723390340
+- Teachers :
+- Students : 
